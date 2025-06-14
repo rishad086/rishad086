@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishadul Bayesh</h1>
-<h3 align="center">CSE Undergrad, Passionate about research</h3>
+<h3 align="center">CSE Graduate, Passionate about research</h3>
 
-- 🔭 I’m currently working on **my thesis**
+- 🔭 I’m currently working as Lecturer in Uttara University.
 
-- 🌱 I’m currently learning **Machine learning and Deep learning approaches.**
 
-- 📫 How to reach me **rishad.cse18.kuet@gmail.com**
+
+- 📫 How to reach me **rishadul.cse18.kuet@gmail.com**
 
 
 <p align="left">
